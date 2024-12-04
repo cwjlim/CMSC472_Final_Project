@@ -1,4 +1,3 @@
-## CMSC472_Final_Project
 
 Progress log:
 
